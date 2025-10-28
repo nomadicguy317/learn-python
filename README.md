@@ -29,6 +29,17 @@ without launching them.
 
 > _You might also be interested in 🤖 [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments)_
 
+## 🚀 NEW: Python Developer Roadmap with AI/ML
+
+Looking to become a professional Python developer with AI/ML skills? Check out these comprehensive resources:
+
+- 📋 **[Python Developer Roadmap](PYTHON_DEVELOPER_ROADMAP.md)** - Complete learning path from basics to advanced Python, backend development (Flask, Django, FastAPI), and AI/ML
+- 💪 **[Practice Problems](PRACTICE_PROBLEMS.md)** - Hands-on coding challenges for basic, intermediate, and advanced Python topics
+- 🏗️ **[Development Projects](DEVELOPMENT_PROJECTS.md)** - Real-world project ideas for Flask, Django, and FastAPI frameworks
+- 🤖 **[AI/ML Projects](AI_ML_PROJECTS.md)** - Machine learning and AI project ideas from beginner to advanced level
+
+These resources provide a structured path to master Python development and AI/ML, with practice problems for every topic and project ideas to build your portfolio.
+
 ## How to Use This Repository
 
 Each Python script in this repository has the following structure:
